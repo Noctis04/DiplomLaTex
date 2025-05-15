@@ -1,0 +1,39 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Анализ предметной области}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Описание предметной области}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Роль искусственного интеллекта в сельском хозяйстве}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Сверточные нейронные сети}{7}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Анализ основных видов заболеваний томатов}{10}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Анализ существующих решений}{20}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Техническое задание}{24}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{24}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{24}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Актуальность темы разработки}{25}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Этапы разработки}{25}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Требования к программной системе}{26}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Требования к данным}{26}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Функциональные требования}{26}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Сценарий прецедента пользователя «Загрузка изображения»}{27}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Сценарий прецедента пользователя «Просмотр описания проблемы»}{27}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Сценарий прецедента пользователя «Просмотр рекомендаций по лечению и профилактике»}{27}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}Сценарий прецедента пользователя «Просмотр рекомендаций по профилактике»}{28}{subsubsection.2.5.6}%
+\contentsline {subsection}{\numberline {2.6}Требования пользователя к интерфейсу web-интерфейса}{28}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Нефункциональные требования}{29}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Требования к программному обеспечению}{29}{subsubsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.8}Ограничения}{30}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Требования к аппаратному обеспечению}{30}{subsubsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.9}Требования к оформлению документации}{30}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Технический проект}{31}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{31}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{31}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Язык программирования Python}{31}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Фреймворк PyTorch}{31}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}YOLO}{32}{subsubsection.3.2.3}%
+\contentsline {paragraph}{\numberline {3.2.3.1}Backbone}{34}{paragraph.3.2.3.1}%
+\contentsline {paragraph}{\numberline {3.2.3.2}Neck}{35}{paragraph.3.2.3.2}%
+\contentsline {paragraph}{\numberline {3.2.3.3}Head}{36}{paragraph.3.2.3.3}%
+\contentsline {paragraph}{\numberline {3.2.3.4}Применение в задаче}{37}{paragraph.3.2.3.4}%
+\contentsline {subsubsection}{\numberline {3.2.4}Фреймворк Flask}{37}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.3}Диаграмма компонентов}{37}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Структура базы данных}{39}{subsection.3.4}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{41}{table.6}%
