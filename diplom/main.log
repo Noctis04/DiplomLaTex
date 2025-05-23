@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.19)  15 MAY 2025 10:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.19)  24 MAY 2025 00:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -639,22 +639,103 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 33.
- [1] (main.toc [2])
-\tf@toc=\write4
-\openout4 = `main.toc'.
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 33--33
+[] 
+ []
+
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 33--33
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+
+ []
+
+[1] (ЛистЗадания.tex [2] (main.lop)
+\tf@lop=\write4
+\openout4 = `main.lop'.
+
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 97--108
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--108
+
+ []
+
+) (Реферат.tex [3] [4]
+\c=\count310
+\last=\count311
+\pnul=\count312
+\c=\count313
+\last=\count314
+\pnul=\count315
+\c=\count316
+\last=\count317
+\pnul=\count318
+\c=\count319
+\last=\count320
+\pnul=\count321
+ [5]
+\c=\count322
+\last=\count323
+\pnul=\count324
+\c=\count325
+\last=\count326
+\pnul=\count327
+\c=\count328
+\last=\count329
+\pnul=\count330
+\c=\count331
+\last=\count332
+\pnul=\count333
+) [6] (main.toc [7])
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
  (main.lpc)
-\tf@lpc=\write5
-\openout5 = `main.lpc'.
+\tf@lpc=\write6
+\openout6 = `main.lpc'.
 
- (Обозначения.tex [3])
-(Анализ.tex [4]
+ (Обозначения.tex
+Underfull \hbox (badness 1331) in paragraph at lines 1--1
+\TU/TimesNewRoman(0)/m/n/14.4 Концептуальная модель сайта (Графический материал
+ / Концептуальная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+[8]) (Введение.tex [9] [10]
+\c=\count334
+\last=\count335
+\pnul=\count336
+
+Underfull \hbox (badness 1708) in paragraph at lines 28--29
+[]\TU/TimesNewRoman(0)/m/it/14.4 В третьем разделе \TU/TimesNewRoman(0)/m/n/14.
+4 представлены проектные решения для интел-
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 28--29
+\TU/TimesNewRoman(0)/m/n/14.4 лектуальной системы, архитектура модели машинного
+ обучения и веб-
+ []
+
+) (Анализ.tex [11]
 Underfull \hbox (badness 2189) in paragraph at lines 7--8
 []\TU/TimesNewRoman(0)/m/n/14.4 Традиционные методы для выявления болезней вклю
 чают в себя
  []
 
-[5] [6]
+[12] [13]
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 []\TU/TimesNewRoman(0)/m/n/14.4 Сверточные нейронные сети (CNN, англ. Convoluti
 onal Neural
@@ -686,35 +767,35 @@ Underfull \hbox (badness 3872) in paragraph at lines 30--31
 
 File: images/lenet5.png Graphic file (type bmp)
 <images/lenet5.png>
-[7]
+[14]
 File: images/alexnet.png Graphic file (type bmp)
 <images/alexnet.png>
- [8] [9]
+ [15] [16]
 File: images/альтерниоз tomatov.jpg Graphic file (type bmp)
 <images/альтерниоз tomatov.jpg>
- [10]
+ [17]
 File: images/late-blight-foliage-tomato.jpg Graphic file (type bmp)
 <images/late-blight-foliage-tomato.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11]
+[18]
 File: images/кладоспориоз-томата-2-e1598945034942.jpg Graphic file (type bmp)
 <images/кладоспориоз-томата-2-e1598945034942.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12] [13]
+[19] [20]
 File: images/4.jpg Graphic file (type bmp)
 <images/4.jpg>
 File: images/pepino-mosaic-virus(4).jpg Graphic file (type bmp)
 <images/pepino-mosaic-virus(4).jpg>
- [14] [15]
+ [21] [22]
 File: images/Tomato-Yellow-Leaf-4.jpg Graphic file (type bmp)
 <images/Tomato-Yellow-Leaf-4.jpg>
- [16]
+ [23]
 File: images/муха.jpeg Graphic file (type bmp)
 <images/муха.jpeg>
 File: images/мин мушка.jpg Graphic file (type bmp)
@@ -723,23 +804,23 @@ File: images/мин мушка.jpg Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17]
+[24]
 File: images/клещ.jpg Graphic file (type bmp)
 <images/клещ.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18]
+[25]
 File: images/паут кл2.jpeg Graphic file (type bmp)
 <images/паут кл2.jpeg>
- [19]
+ [26]
 File: images/платекс.png Graphic file (type bmp)
 <images/платекс.png>
- [20]
+ [27]
 File: images/култикури.png Graphic file (type bmp)
 <images/култикури.png>
- [21]
+ [28]
 Underfull \hbox (badness 1881) in paragraph at lines 204--205
 []\TU/TimesNewRoman(0)/m/n/14.4 PDD.JINR.RU является исследовательским проектом
 , созданным в
@@ -749,10 +830,10 @@ File: images/site1.jpg Graphic file (type bmp)
 <images/site1.jpg>
 File: images/site2.jpg Graphic file (type bmp)
 <images/site2.jpg>
-[22]) (ТехЗадание.tex [23] [24] [25]
+[29]) (ТехЗадание.tex [30] [31] [32]
 File: images/diog1.jpg Graphic file (type bmp)
 <images/diog1.jpg>
- [26]
+ [33]
 Underfull \hbox (badness 10000) in paragraph at lines 72--72
 []\TU/TimesNewRoman(0)/b/n/14.4 2.5.3 Сценарий прецедента пользователя «Загрузк
 а
@@ -770,7 +851,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--90
 р
  []
 
-[27]
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 98--98
 []\TU/TimesNewRoman(0)/b/n/14.4 2.5.6 Сценарий прецедента пользователя «Просмот
 р
@@ -778,202 +859,419 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--98
 
 File: images/макет изображения.png Graphic file (type bmp)
 <images/макет изображения.png>
-[28] [29]
+[35] [36]
 Underfull \hbox (badness 1496) in paragraph at lines 127--128
 []\TU/TimesNewRoman(0)/m/n/14.4 библиотеки OpenCV, PIL для обработки изображени
 й и Pandas,
  []
 
-) (ТехПроект.tex [30] [31]
+) (ТехПроект.tex [37] [38] [39]
 File: images/garfYolo.png Graphic file (type bmp)
 <images/garfYolo.png>
- [32]
-File: images/yolo.jpg Graphic file (type bmp)
-<images/yolo.jpg>
- [33] [34] [35] [36]
+ [40]
+File: images/Компоненты.eps Graphic file (type eps)
+<images/Компоненты.eps>
+ [41] [42] [43]
+File: images/Yolo.eps Graphic file (type eps)
+<images/Yolo.eps>
 
-LaTeX Warning: Citation `flask5' on page 37 undefined on input line 111.
+Overfull \hbox (36.54956pt too wide) in paragraph at lines 95--96
+[][] 
+ []
 
-File: images/Диаграмма компонентов.png Graphic file (type bmp)
-<images/Диаграмма компонентов.png>
-[37] [38]
-File: images/диплом.png Graphic file (type bmp)
-<images/диплом.png>
 
-Underfull \hbox (badness 8094) in paragraph at lines 160--160
+LaTeX Warning: Float too large for page by 40.05403pt on input line 98.
+
+[44] [45
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+[]\TU/TimesNewRoman(0)/m/n/14.4 Backbone формирует карты признаков 80x80x256, 4
+0x40x512,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+[]\TU/TimesNewRoman(0)/m/n/14.4 Слой Concat соединяет 40x40x1024 с 40x40x512, ф
+ормируя
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+[]\TU/TimesNewRoman(0)/m/n/14.4 Слой Concat формирует 80x80x768, соединяя 80x80
+x512 с
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+[]\TU/TimesNewRoman(0)/m/n/14.4 Neck готовит три карты признаков размерностями 
+80x80x256,
+ []
+
+File: images/Modules.eps Graphic file (type eps)
+<images/Modules.eps>
+[47]
+File: images/ДиаграммаБд.eps Graphic file (type eps)
+<images/ДиаграммаБд.eps>
+
+Underfull \hbox (badness 8094) in paragraph at lines 221--221
 []|\TU/TimesNewRoman(0)/m/n/14.4 Подробное описание бо-
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 160--160
+Underfull \hbox (badness 1845) in paragraph at lines 221--221
 []|\TU/TimesNewRoman(0)/m/n/14.4 Части растения, поражае-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 []|\TU/TimesNewRoman(0)/m/n/14.4 Экологические факторы,
  []
 
-[39]) (СписокИсточников.tex [40]
-Underfull \hbox (badness 4660) in paragraph at lines 22--23
+[48]) (РабочийПроект.tex [49]
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Главный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 CMain – главный
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 класс страницы web-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 приложения. После
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 одного из этапов по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 загрузке страницы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 в сценарии стано-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 вится доступным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 инициализированный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 void ShowTitle(string
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 bool strip_tags =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 true) Выводит за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 головок страницы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 void SetTitle(string
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 title) Устанавливает
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\TU/TimesNewRoman(0)/m/n/14.4 void ShowCSS(bool
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 external = true, bool
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 XhtmlStyle = true)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 Выводит таблицу
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Главный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/14.4 CFile – Класс для
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 работы с файлами и
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 24--24
+\TU/TimesNewRoman(0)/m/n/14.4 щает массив, содер-
+ []
+
+[50]
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+LaTeX Font Info:    Font shape `TU/Verdana(0)/m/n' will be
+(Font)              scaled to size 10.07994pt on input line 32.
+
+
+LaTeX Warning: Reference `main:image' on page 51 undefined on input line 57.
+
+[51]
+
+LaTeX Warning: Reference `menu:image' on page 52 undefined on input line 61.
+
+
+LaTeX Warning: Reference `enter:image' on page 52 undefined on input line 65.
+
+) (Заключение.tex [52]) (СписокИсточников.tex [53]
+Underfull \hbox (badness 4832) in paragraph at lines 24--25
 []\TU/TimesNewRoman(0)/m/n/14.4 Копытин, И. П. Ведение сельского хозяйства в Це
 нтрально-
  []
 
-
-Underfull \hbox (badness 3919) in paragraph at lines 24--25
+[54]
+Underfull \hbox (badness 3803) in paragraph at lines 26--27
 []\TU/TimesNewRoman(0)/m/n/14.4 Савельев, В. А. Растениеводство / В. А. Савелье
 в – Санкт-
  []
 
-[41] [42]
-LaTeX Font Info:    Font shape `TU/Verdana(0)/m/n' will be
-(Font)              scaled to size 10.07994pt on input line 56.
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 []\TU/TimesNewRoman(0)/m/n/14.4 Определитель болезней томатов: фото, описание, 
 ме-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 \TU/TimesNewRoman(0)/m/n/14.4 ры борьбы и профилактика : сайт / Огород. – Москв
 а : Ого-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 \TU/TimesNewRoman(0)/m/n/14.4 род, 2023 – . – URL: []$[][][][][] [] [] [] [][][
 ] [] [][][][][][] [] [][] [] [][] [] [][][][][][] [] [][][][][][] [] [][][][][]
  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] 
 [][][]$[] \TU/TimesNewRoman(0)/m/n/14.4 (дата об-
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 58--59
+Underfull \hbox (badness 2469) in paragraph at lines 60--61
 []\TU/TimesNewRoman(0)/m/n/14.4 Болезни рассады томатов: описание с фото, лечен
 ие : сайт /
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 58--59
+Underfull \hbox (badness 1472) in paragraph at lines 60--61
 \TU/TimesNewRoman(0)/m/n/14.4 КП. – Москва : КП, 2023 – . – URL: []$[][][][][] 
 [] [] [] [][][] [] [][] [] [][] [] [][][][][][] [] [][][][][][][][][][][][][][]
  []
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 60--61
+Underfull \hbox (badness 1377) in paragraph at lines 62--63
 \TU/TimesNewRoman(0)/m/n/14.4 : сайт / Proglib. – Москва : Proglib, 2020 – . – 
 URL: []$[][][][][] [] [] [] [][][][][][][] [] [][] [] [] []
  []
 
-[43]
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 []\TU/TimesNewRoman(0)/m/n/14.4 Как выполнить обнаружение объектов YOLO с по-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 \TU/TimesNewRoman(0)/m/n/14.4 мощью OpenCV и PyTorch в Python : сайт / Waksoft.
  – Челя-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 \TU/TimesNewRoman(0)/m/n/14.4 бинск : Waksoft, 2021 – . – URL: []$[][][][][] []
  [] [] [][][][][][][] [] [][][][] [] [][] [] [][][][] [] [][] [] [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][]$[]
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 74--75
+Underfull \hbox (badness 2080) in paragraph at lines 76--77
 \TU/TimesNewRoman(0)/m/n/14.4 SO Development. – Москва : SO Development, 2024 –
  . – URL: []$[][][][][] []
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 74--75
+Underfull \hbox (badness 5985) in paragraph at lines 76--77
 [] [] [][] [] [][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[] \TU/
 TimesNewRoman(0)/m/n/14.4 (дата обращения:
  []
 
 
-Underfull \hbox (badness 3623) in paragraph at lines 76--77
+Underfull \hbox (badness 3623) in paragraph at lines 78--79
 []\TU/TimesNewRoman(0)/m/n/14.4 YOLO11: A New Iteration of “You Only Look Once”
 : сайт /
  []
 
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 []\TU/TimesNewRoman(0)/m/n/14.4 Обзор языка программирования Python : сайт / Pr
 oglib. –
  []
 
 
-Underfull \hbox (badness 4441) in paragraph at lines 86--87
+Underfull \hbox (badness 4441) in paragraph at lines 88--89
 \TU/TimesNewRoman(0)/m/n/14.4 Skypro – Москва : Skypro, 2023 – . – URL: []$[][]
 [][][] [] [] [] [][][] [] [][][] [] [][][][] [] [][][][][][] []
  []
 
 
-Underfull \hbox (badness 5189) in paragraph at lines 90--91
+Underfull \hbox (badness 5189) in paragraph at lines 94--95
 \TU/TimesNewRoman(0)/m/n/14.4 / Skypro. – Москва : Skypro, 20243 – . – URL: []$
 [][][][][] [] [] [] [][][] [] [][][] [] [][][][][] []
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 94--95
+Underfull \hbox (badness 1533) in paragraph at lines 98--99
 []\TU/TimesNewRoman(0)/m/n/14.4 Vatathanavaro, S. White Blood Cell Classificati
 on: A Comparison
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 96--97
+Underfull \hbox (badness 5231) in paragraph at lines 100--101
 []\TU/TimesNewRoman(0)/m/n/14.4 Фреймворк Flask: как он работает и зачем нужен 
 : сайт /
  []
 
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 []\TU/TimesNewRoman(0)/m/n/14.4 Цифровые технологии и нейросети в сельском хозя
 йстве :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 \TU/TimesNewRoman(0)/m/n/14.4 сайт / It фабрика, 2025 – . – URL: []$[][][][][] 
 [] [] [] [][][][][][][][][][] [] [][] [] [][][][][][][] [] [][][][][][][][][] [
 ]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][]$[] \TU/TimesNewRoman(0)/m/n/14.4 
 (дата обращения:
  []
 
 
-Underfull \hbox (badness 2772) in paragraph at lines 106--107
+Underfull \hbox (badness 2772) in paragraph at lines 110--111
 \TU/TimesNewRoman(0)/m/n/14.4 : сайт / БиоТех2030. – Москва : БиоТех2030, 2025 
 – . – URL: []$[][][][] []
  []
 
-) [46] (main.aux)
+) (Плакаты.tex [59] [60]
+File: images/плакат1.png Graphic file (type bmp)
+<images/плакат1.png>
+File: images/плакат2.png Graphic file (type bmp)
+<images/плакат2.png>
+ [61
+
+]
+File: images/плакат3.png Graphic file (type bmp)
+<images/плакат3.png>
+ [62]
+File: images/плакат3.png Graphic file (type bmp)
+<images/плакат3.png>
+ [63] [64]) (Код.tex
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 4.
+
+(main.tex [65
+
+]) [66]
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 12--27
+[] 
+ []
+
+) [67] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -986,15 +1284,15 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CE185541339CFE48B7C7080B9265D71D;11279.
+(rerunfilecheck)             Checksum: BA5F40660863FCE314B5F0B98F8D5871;14882.
  ) 
 Here is how much of TeX's memory you used:
- 15780 strings out of 410379
- 304938 string characters out of 5788051
- 1930432 words of memory out of 5000000
- 36880 multiletter control sequences out of 15000+600000
- 559582 words of font info for 70 fonts, out of 8000000 for 9000
+ 17318 strings out of 410379
+ 326555 string characters out of 5788051
+ 2140432 words of memory out of 5000000
+ 38362 multiletter control sequences out of 15000+600000
+ 559598 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,14n,110p,858b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,14n,110p,858b,2950s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (46 pages).
+Output written on main.pdf (67 pages).
