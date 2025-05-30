@@ -11,7 +11,7 @@
 	\caption{Методы класса DatabaseManager\label{table:databaseManager}}\\
 	\hline \centrow \setlength{\baselineskip}{0.7\baselineskip} Название метода & \centrow \setlength{\baselineskip}{0.7\baselineskip} Описание метода \\ \hline
 	\endfirsthead
-	\caption*{Продолжение таблицы \ref{table:databaseManager}}\\
+	\multicolumn{2}{l}{Продолжение таблицы \thetable} \\
 	\hline \centrow Название метода & \centrow Описание метода \\ \hline
 	\finishhead
 	configure\_connection() & Настраивает параметры и устанавливает соединение с базой данных, возвращает объект соединения. \\
@@ -39,7 +39,7 @@
 	\caption{Методы класса ImageProcessor\label{table:imageProcessor}}\\
 	\hline \centrow \setlength{\baselineskip}{0.7\baselineskip} Название метода & \centrow \setlength{\baselineskip}{0.7\baselineskip} Описание метода \\ \hline
 	\endfirsthead
-	\caption*{Продолжение таблицы \ref{table:imageProcessor}}\\
+	\multicolumn{2}{l}{Продолжение таблицы \thetable} \\
 	\hline \centrow Название метода & \centrow Описание метода \\ \hline
 	\finishhead
 	ensure\_rgb\_image(image) & Проверяет изображение и конвертирует в RGB, если необходимо. \\
@@ -67,7 +67,7 @@
 	\caption{Методы класса TomatoDiseaseModel\label{table:model}}\\
 	\hline \centrow \setlength{\baselineskip}{0.7\baselineskip} Название метода & \centrow \setlength{\baselineskip}{0.7\baselineskip} Описание метода \\ \hline
 	\endfirsthead
-	\caption*{Продолжение таблицы \ref{table:model}}\\
+	\multicolumn{2}{l}{Продолжение таблицы \thetable} \\
 	\hline \centrow Название метода & \centrow Описание метода \\ \hline
 	\finishhead
 	predict(img\_input) & Анализирует входное изображение с помощью модели YOLO и возвращает результат. \\
@@ -81,7 +81,7 @@
 	\caption{Методы класса YOLOTrainer\label{table:yoloTrainer}}\\
 	\hline \centrow \setlength{\baselineskip}{0.7\baselineskip} Название метода & \centrow \setlength{\baselineskip}{0.7\baselineskip} Описание метода \\ \hline
 	\endfirsthead
-	\caption*{Продолжение таблицы \ref{table:yoloTrainer}}\\
+	\multicolumn{2}{l}{Продолжение таблицы \thetable} \\
 	\hline \centrow Название метода & \centrow Описание метода \\ \hline
 	\finishhead
 	\_\_init\_\_(model\_path, data\_path, epochs, imgsz, batch) & Инициализирует объект YOLOTrainer. \\
@@ -100,7 +100,7 @@
 	\caption{Методы класса YOLOv11Inference\label{table:yoloV11Inference}}\\
 	\hline \centrow \setlength{\baselineskip}{0.7\baselineskip} Название метода & \centrow \setlength{\baselineskip}{0.7\baselineskip} Описание метода \\ \hline
 	\endfirsthead
-	\caption*{Продолжение таблицы \ref{table:yoloV11Inference}}\\
+	\multicolumn{2}{l}{Продолжение таблицы \thetable} \\
 	\hline \centrow Название метода & \centrow Описание метода \\ \hline
 	\finishhead
 	\_\_init\_\_(model\_path, device, class\_labels, conf) & Инициализирует обученную модель YOLOv11. \\
@@ -198,7 +198,7 @@ mAP50-95 учитывает среднюю точность при порога�
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=1\textwidth]{F1_curve.png}
+	\includegraphics[width=0.8\textwidth]{F1_curve.png}
 	\caption{Кривые F1-меры в зависимости от порога уверенности.}
 	\label{fig:f1_curve}
 \end{figure}
@@ -209,7 +209,7 @@ mAP50-95 учитывает среднюю точность при порога�
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=1\textwidth]{PR_curve.png}
+	\includegraphics[width=0.8\textwidth]{PR_curve.png}
 	\caption{Кривые точности и полноты}
 	\label{fig:pesrec}
 \end{figure}
@@ -224,7 +224,7 @@ mAP50-95 учитывает среднюю точность при порога�
 	\item альтернариоз: демонстрирует хорошее качество с точностью 0.885, но немного уступает другим классам по устойчивости на высоких значениях recall;
 	\item здоровое растение: имеет точность 0.899, что указывает на уверенность модели при классификации здоровых листьев;
 	\item фитофтороз: с точностью 0.921, модель уверенно различает этот класс, кривая остаётся высокой даже при увеличении полноты;
-	\item минирующая мушка: точность 0.962, одна из наиболее уверенных кривых -- модель чётко распознаёт повреждения, вызванные этим вредителем.;
+	\item минирующая мушка: точность 0.962, одна из наиболее уверенных кривых -- модель чётко распознаёт повреждения, вызванные этим вредителем;
 	\item кладоспориоз: высокая точность 0.966, кривая близка к верхней границе, что говорит о хороших результат классификации для этого класса;
 	\item мозаичный вирус: точность 0.901, хорошая предсказательная способность модели, хотя немного ниже, чем у большинства других заболеваний;
 	\item септориоз (розовая кривая): точность 0.923, стабильная кривая указывает на уверенное распознавание симптомов данного заболевания;
@@ -413,7 +413,7 @@ mAP50-95 учитывает среднюю точность при порога�
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=1\textwidth]{test15.png}
+	\includegraphics[width=0.85\textwidth]{test15.png}
 	\caption{Результат загрузки фото здорового томата}
 	\label{fig:test15}
 \end{figure}

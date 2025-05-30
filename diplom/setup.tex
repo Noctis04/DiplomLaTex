@@ -94,4 +94,16 @@ escapeinside={\%*}{*)}   % если нужно добавить коммента
   %%%
   ^^00}
 \lst@RestoreCatcodes
+% Новая команда для подписи продолжения таблицы
+\makeatletter
+\newcommand{\continuedcaption}[1]{%
+	\par\vskip\abovecaptionskip
+	\sbox\@tempboxa{\tablename~\thetable~--~#1}%
+	\ifdim \wd\@tempboxa >\hsize
+	\tablename~\thetable~--~#1\par
+	\else
+	\hb@xt@\hsize{\box\@tempboxa\hfil}% Выравнивание по левому краю
+	\fi
+	\vskip\belowcaptionskip
+}
 \makeatother

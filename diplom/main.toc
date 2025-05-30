@@ -20,7 +20,7 @@
 \contentsline {subsubsection}{\numberline {2.5.2}Функциональные требования}{33}{subsubsection.2.5.2}%
 \contentsline {subsubsection}{\numberline {2.5.3}Сценарий прецедента пользователя «Загрузка изображения»}{34}{subsubsection.2.5.3}%
 \contentsline {subsubsection}{\numberline {2.5.4}Сценарий прецедента пользователя «Просмотр описания проблемы»}{34}{subsubsection.2.5.4}%
-\contentsline {subsubsection}{\numberline {2.5.5}Сценарий прецедента пользователя «Просмотр рекомендаций по лечению и профилактике»}{34}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.5}Сценарий прецедента пользователя «Просмотр рекомендаций по лечению и профилактике»}{35}{subsubsection.2.5.5}%
 \contentsline {subsubsection}{\numberline {2.5.6}Сценарий прецедента пользователя «Просмотр рекомендаций по профилактике»}{35}{subsubsection.2.5.6}%
 \contentsline {subsection}{\numberline {2.6}Требования пользователя к интерфейсу web-интерфейса}{35}{subsection.2.6}%
 \contentsline {subsection}{\numberline {2.7}Нефункциональные требования}{36}{subsection.2.7}%
@@ -57,10 +57,10 @@
 \contentsline {subsection}{\numberline {4.3}Тестирование модели}{58}{subsection.4.3}%
 \contentsline {subsubsection}{\numberline {4.3.1}Анализ F1-меры в зависимости от порога уверенности}{58}{subsubsection.4.3.1}%
 \contentsline {subsubsection}{\numberline {4.3.2}PR-кривые: точность и полнота по классам}{59}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3}Нормализованная матрица ошибок}{61}{subsubsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.4}Тестирование интеллектуальной системы}{64}{subsection.4.4}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{73}{section*.50}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{73}{Item.54}%
-\contentsline {section}{ПРИЛОЖЕНИЕ А\ Представление графического материала}{80}{section*.52}%
-\contentsline {section}{ПРИЛОЖЕНИЕ Б\ Фрагменты исходного кода программы}{85}{section*.57}%
-\contentsline {section}{На отдельных листах (CD-RW в прикрепленном конверте)}{87}{lstnumber.-1.49}%
+\contentsline {subsubsection}{\numberline {4.3.3}Нормализованная матрица ошибок}{60}{subsubsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.4}Тестирование интеллектуальной системы}{63}{subsection.4.4}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{72}{section*.50}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{72}{Item.54}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А\ Представление графического материала}{79}{section*.52}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Б\ Фрагменты исходного кода программы}{84}{section*.57}%
+\contentsline {section}{На отдельных листах (CD-RW в прикрепленном конверте)}{86}{lstnumber.-1.49}%
