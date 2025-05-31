@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.19)  30 MAY 2025 10:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.19)  31 MAY 2025 16:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -929,20 +929,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--163
 File: images/Modules.eps Graphic file (type eps)
 <images/Modules.eps>
 [47]
+Underfull \hbox (badness 2134) in paragraph at lines 184--185
+[]\TU/TimesNewRoman(0)/m/n/14.4 index.html – HTML-шаблон клиентского интерфейса
+. Содержит
+ []
+
 File: images/ДиаграммаБд.eps Graphic file (type eps)
 <images/ДиаграммаБд.eps>
 
-Underfull \hbox (badness 8094) in paragraph at lines 221--221
+Underfull \hbox (badness 8094) in paragraph at lines 217--217
 []|\TU/TimesNewRoman(0)/m/n/14.4 Подробное описание бо-
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 221--221
+Underfull \hbox (badness 1845) in paragraph at lines 217--217
 []|\TU/TimesNewRoman(0)/m/n/14.4 Части растения, поражае-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 []|\TU/TimesNewRoman(0)/m/n/14.4 Экологические факторы,
  []
 
