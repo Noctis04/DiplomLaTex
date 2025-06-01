@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.19)  31 MAY 2025 16:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.19)  2 JUN 2025 00:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -668,7 +668,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--102
 
  []
 
-) (Реферат.tex [3]
+) (Реферат.tex [3] [4]
 \c=\count310
 \last=\count311
 \pnul=\count312
@@ -687,7 +687,7 @@ Underfull \hbox (badness 1661) in paragraph at lines 5--6
 , PostgreSQL, веб-
  []
 
-[4]
+[5]
 \c=\count322
 \last=\count323
 \pnul=\count324
@@ -700,7 +700,7 @@ Underfull \hbox (badness 1661) in paragraph at lines 5--6
 \c=\count331
 \last=\count332
 \pnul=\count333
-) [5] (main.toc [6] [7])
+) [6] (main.toc [7] [8])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -709,9 +709,21 @@ Underfull \hbox (badness 1661) in paragraph at lines 5--6
 \openout6 = `main.lpc'.
 
  (Обозначения.tex
+Underfull \hbox (badness 1436) in paragraph at lines 1--1
+\TU/TimesNewRoman(0)/m/n/14.4 Диограмма прецедентов (Графический материал / Дио
+грамма прецеден-
+ []
+
+
 Underfull \hbox (badness 5077) in paragraph at lines 1--1
 \TU/TimesNewRoman(0)/m/n/14.4 Архитектура YOLO 11 (Графический материал / Архит
 ектура YOLO
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 1--1
+\TU/TimesNewRoman(0)/m/n/14.4 Динамика метрик обучения (Графический материал / 
+Динамика метрик
  []
 
 
@@ -719,7 +731,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
 
  []
 
-[8]) (Введение.tex [9] [10]
+[9]) (Введение.tex [10] [11]
 \c=\count334
 \last=\count335
 \pnul=\count336
@@ -735,13 +747,13 @@ Underfull \hbox (badness 1888) in paragraph at lines 28--29
  обучения и веб-
  []
 
-) (Анализ.tex [11]
+) (Анализ.tex [12]
 Underfull \hbox (badness 2189) in paragraph at lines 7--8
 []\TU/TimesNewRoman(0)/m/n/14.4 Традиционные методы для выявления болезней вклю
 чают в себя
  []
 
-[12] [13]
+[13] [14]
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 []\TU/TimesNewRoman(0)/m/n/14.4 Сверточные нейронные сети (CNN, англ. Convoluti
 onal Neural
@@ -773,50 +785,50 @@ Underfull \hbox (badness 3872) in paragraph at lines 30--31
 
 File: images/lenet5.png Graphic file (type bmp)
 <images/lenet5.png>
-[14]
+[15]
 File: images/alexnet.png Graphic file (type bmp)
 <images/alexnet.png>
- [15] [16]
+ [16] [17]
 File: images/альтерниоз tomatov.jpg Graphic file (type bmp)
 <images/альтерниоз tomatov.jpg>
- [17]
+ [18]
 File: images/late-blight-foliage-tomato.jpg Graphic file (type bmp)
 <images/late-blight-foliage-tomato.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18]
+[19]
 File: images/кладоспориоз-томата-2-e1598945034942.jpg Graphic file (type bmp)
 <images/кладоспориоз-томата-2-e1598945034942.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19]
+[20]
 File: images/4.jpg Graphic file (type bmp)
 <images/4.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20]
+[21]
 File: images/pepino-mosaic-virus(4).jpg Graphic file (type bmp)
 <images/pepino-mosaic-virus(4).jpg>
- [21]
+ [22]
 File: images/Tomato-Yellow-Leaf-4.jpg Graphic file (type bmp)
 <images/Tomato-Yellow-Leaf-4.jpg>
- [22]
+ [23]
 File: images/муха.jpeg Graphic file (type bmp)
 <images/муха.jpeg>
- [23]
+ [24]
 File: images/мин мушка.jpg Graphic file (type bmp)
 <images/мин мушка.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24]
+[25]
 File: images/клещ.jpg Graphic file (type bmp)
 <images/клещ.jpg>
 
@@ -825,23 +837,23 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: images/паут кл2.jpeg Graphic file (type bmp)
 <images/паут кл2.jpeg>
-[25] [26]
+[26] [27]
 File: images/платекс.png Graphic file (type bmp)
 <images/платекс.png>
 File: images/култикури.png Graphic file (type bmp)
 <images/култикури.png>
- [27]
+ [28]
 Underfull \hbox (badness 1881) in paragraph at lines 204--205
 []\TU/TimesNewRoman(0)/m/n/14.4 PDD.JINR.RU является исследовательским проектом
 , созданным в
  []
 
-[28]
+[29]
 File: images/site1.jpg Graphic file (type bmp)
 <images/site1.jpg>
 File: images/site2.jpg Graphic file (type bmp)
 <images/site2.jpg>
- [29]) (ТехЗадание.tex [30] [31] [32]
+ [30]) (ТехЗадание.tex [31] [32] [33]
 Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
@@ -850,7 +862,7 @@ Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
 File: images/diog1.eps Graphic file (type eps)
 <images/diog1.eps>
- [33]
+ [34]
 Underfull \hbox (badness 10000) in paragraph at lines 72--72
 []\TU/TimesNewRoman(0)/b/n/14.4 2.5.3 Сценарий прецедента пользователя «Загрузк
 а
@@ -868,7 +880,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--90
 р
  []
 
-[34]
+[35]
 Underfull \hbox (badness 10000) in paragraph at lines 98--98
 []\TU/TimesNewRoman(0)/b/n/14.4 2.5.6 Сценарий прецедента пользователя «Просмот
 р
@@ -876,19 +888,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--98
 
 File: images/макет изображения.png Graphic file (type bmp)
 <images/макет изображения.png>
-[35]
+[36]
 Underfull \hbox (badness 1496) in paragraph at lines 127--128
 []\TU/TimesNewRoman(0)/m/n/14.4 библиотеки OpenCV, PIL для обработки изображени
 й и Pandas,
  []
 
-[36]) (ТехПроект.tex [37] [38] [39]
+[37]) (ТехПроект.tex [38] [39] [40]
 File: images/garfYolo.png Graphic file (type bmp)
 <images/garfYolo.png>
- [40]
+ [41]
 File: images/Компоненты.eps Graphic file (type eps)
 <images/Компоненты.eps>
- [41] [42] [43]
+ [42] [43] [44]
 File: images/Yolo.eps Graphic file (type eps)
 <images/Yolo.eps>
 
@@ -899,7 +911,7 @@ Overfull \hbox (36.54956pt too wide) in paragraph at lines 95--96
 
 LaTeX Warning: Float too large for page by 40.05403pt on input line 98.
 
-[44] [45
+[45] [46
 
 
 ]
@@ -920,7 +932,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
 x512 с
  []
 
-[46]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 162--163
 []\TU/TimesNewRoman(0)/m/n/14.4 Neck готовит три карты признаков размерностями 
 80x80x256,
@@ -928,7 +940,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
 File: images/Modules.eps Graphic file (type eps)
 <images/Modules.eps>
-[47]
+[48]
 Underfull \hbox (badness 2134) in paragraph at lines 184--185
 []\TU/TimesNewRoman(0)/m/n/14.4 index.html – HTML-шаблон клиентского интерфейса
 . Содержит
@@ -951,7 +963,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--217
 []|\TU/TimesNewRoman(0)/m/n/14.4 Экологические факторы,
  []
 
-[48] [49]) (РабочийПроект.tex [50]
+[49] [50]) (РабочийПроект.tex [51]
 Underfull \hbox (badness 10000) in paragraph at lines 33--33
 []|\TU/TimesNewRoman(0)/m/n/14.4 Инициализирует курсор с
  []
@@ -1001,7 +1013,7 @@ Underfull \hbox (badness 1147) in paragraph at lines 61--61
 []|\TU/TimesNewRoman(0)/m/n/14.4 Преобразует изображение в строку
  []
 
-[51] [52]
+[52] [53]
 Underfull \hbox (badness 1939) in paragraph at lines 78--79
 []\TU/TimesNewRoman(0)/m/n/14.4 Класс YOLOTrainer предназначен для обучения и о
 ценки модели
@@ -1042,7 +1054,7 @@ Underfull \hbox (badness 1577) in paragraph at lines 116--116
 []|\TU/TimesNewRoman(0)/m/n/14.4 Визуализирует результаты предска-
  []
 
-[53]
+[54]
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 []|\TU/TimesNewRoman(0)/m/n/14.4 predict_with_fallback(image,
  []
@@ -1062,15 +1074,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--146
 []|\TU/TimesNewRoman(0)/m/n/14.4 Обрабатывает загруженный файл,
  []
 
-[54]
+[55]
 File: images/results.png Graphic file (type bmp)
 <images/results.png>
- [55] [56] [57]
+ [56] [57] [58]
 File: images/F1_curve.png Graphic file (type bmp)
 <images/F1_curve.png>
 File: images/PR_curve.png Graphic file (type bmp)
 <images/PR_curve.png>
- [58] [59]
+ [59] [60]
 Underfull \hbox (badness 2809) in paragraph at lines 241--242
 []\TU/TimesNewRoman(0)/m/n/14.4 На рисунке  []4.4[] представлена нормализованна
 я матрица ошибок
@@ -1078,7 +1090,7 @@ Underfull \hbox (badness 2809) in paragraph at lines 241--242
 
 File: images/confusion_matrix_normalized.png Graphic file (type bmp)
 <images/confusion_matrix_normalized.png>
-[60] [61]
+[61] [62]
 Underfull \hbox (badness 1158) in paragraph at lines 265--266
 []\TU/TimesNewRoman(0)/m/n/14.4 Класс «Паутинный клещ» распознавался почти безо
 шибочно: 99%
@@ -1086,48 +1098,48 @@ Underfull \hbox (badness 1158) in paragraph at lines 265--266
 
 File: images/test.png Graphic file (type bmp)
 <images/test.png>
-[62]
+[63]
 File: images/test00.png Graphic file (type bmp)
 <images/test00.png>
 File: images/test01.png Graphic file (type bmp)
 <images/test01.png>
- [63]
+ [64]
 File: images/test1.png Graphic file (type bmp)
 <images/test1.png>
 File: images/test2.png Graphic file (type bmp)
 <images/test2.png>
- [64]
+ [65]
 File: images/test3.png Graphic file (type bmp)
 <images/test3.png>
 File: images/test4.png Graphic file (type bmp)
 <images/test4.png>
- [65]
-File: images/test5.png Graphic file (type bmp)
-<images/test5.png>
+ [66]
+File: images/test51.png Graphic file (type bmp)
+<images/test51.png>
 File: images/test6.png Graphic file (type bmp)
 <images/test6.png>
- [66]
+ [67]
 File: images/test8.png Graphic file (type bmp)
 <images/test8.png>
 File: images/test9.png Graphic file (type bmp)
 <images/test9.png>
- [67]
+ [68]
 File: images/test10.png Graphic file (type bmp)
 <images/test10.png>
 File: images/test11.png Graphic file (type bmp)
 <images/test11.png>
- [68]
+ [69]
 File: images/test12.png Graphic file (type bmp)
 <images/test12.png>
 File: images/test13.png Graphic file (type bmp)
 <images/test13.png>
- [69]
+ [70]
 File: images/test14.png Graphic file (type bmp)
 <images/test14.png>
 File: images/test15.png Graphic file (type bmp)
 <images/test15.png>
- [70]) (Заключение.tex [71])
-(СписокИсточников.tex [72]
+ [71]) (Заключение.tex [72])
+(СписокИсточников.tex [73]
 LaTeX Font Info:    Font shape `TU/Verdana(0)/m/n' will be
 (Font)              scaled to size 10.07994pt on input line 20.
 
@@ -1136,13 +1148,13 @@ Underfull \hbox (badness 4832) in paragraph at lines 24--25
 нтрально-
  []
 
-[73]
+[74]
 Underfull \hbox (badness 3803) in paragraph at lines 26--27
 []\TU/TimesNewRoman(0)/m/n/14.4 Савельев, В. А. Растениеводство / В. А. Савелье
 в – Санкт-
  []
 
-[74]
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 58--59
 []\TU/TimesNewRoman(0)/m/n/14.4 Определитель болезней томатов: фото, описание, 
 ме-
@@ -1187,7 +1199,7 @@ Underfull \hbox (badness 1377) in paragraph at lines 62--63
 URL: []$[][][][][] [] [] [] [][][][][][][] [] [][] [] [] []
  []
 
-[75]
+[76]
 Underfull \hbox (badness 10000) in paragraph at lines 72--73
 []\TU/TimesNewRoman(0)/m/n/14.4 Как выполнить обнаружение объектов YOLO с по-
  []
@@ -1230,7 +1242,7 @@ Underfull \hbox (badness 3623) in paragraph at lines 78--79
 : сайт /
  []
 
-[76]
+[77]
 Underfull \hbox (badness 10000) in paragraph at lines 86--87
 []\TU/TimesNewRoman(0)/m/n/14.4 Обзор языка программирования Python : сайт / Pr
 oglib. –
@@ -1260,7 +1272,7 @@ Underfull \hbox (badness 5231) in paragraph at lines 100--101
 : сайт /
  []
 
-[77]
+[78]
 Underfull \hbox (badness 10000) in paragraph at lines 108--109
 []\TU/TimesNewRoman(0)/m/n/14.4 Цифровые технологии и нейросети в сельском хозя
 йстве :
@@ -1286,7 +1298,7 @@ Underfull \hbox (badness 2772) in paragraph at lines 110--111
 – . – URL: []$[][][][] []
  []
 
-) (Плакаты.tex [78] [79]
+) (Плакаты.tex [79] [80]
 Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
@@ -1295,8 +1307,8 @@ Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
-File: images/плакат1tmn.eps Graphic file (type eps)
-<images/плакат1tmn.eps>
+File: images/плакат1.eps Graphic file (type eps)
+<images/плакат1.eps>
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
@@ -1304,17 +1316,129 @@ Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
-File: images/плакат3.eps Graphic file (type eps)
-<images/плакат3.eps>
- [80
+File: images/плакат2.eps Graphic file (type eps)
+<images/плакат2.eps>
+ [81
 
 ]
-File: images/плакат2.png Graphic file (type bmp)
-<images/плакат2.png>
- [81]
-File: images/плакат3.png Graphic file (type bmp)
-<images/плакат3.png>
- [82] [83]) (Код.tex
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+File: images/плакат3.eps Graphic file (type eps)
+<images/плакат3.eps>
+ [82]
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+File: images/плакат4.eps Graphic file (type eps)
+<images/плакат4.eps>
+ [83]
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+File: images/плакат5.eps Graphic file (type eps)
+<images/плакат5.eps>
+ [84]
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
+File: images/плакат6.eps Graphic file (type eps)
+<images/плакат6.eps>
+ [85]
+File: images/плакат7.eps Graphic file (type eps)
+<images/плакат7.eps>
+ [86]
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+File: images/плакат8.eps Graphic file (type eps)
+<images/плакат8.eps>
+ [87]
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+File: images/плакат9.eps Graphic file (type eps)
+<images/плакат9.eps>
+ [88]
+Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
+File: images/плакат10.eps Graphic file (type eps)
+<images/плакат10.eps>
+ [89]
+Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
+File: images/плакат11.eps Graphic file (type eps)
+<images/плакат11.eps>
+ [90]
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+File: images/плакат12.eps Graphic file (type eps)
+<images/плакат12.eps>
+
+[91]
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+File: images/плакат13.eps Graphic file (type eps)
+<images/плакат13.eps>
+ [92]
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+File: images/плакат14.eps Graphic file (type eps)
+<images/плакат14.eps>
+ [93] [94]) (Код.tex
 (C:\Users\nikkr\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
@@ -1348,14 +1472,14 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 4.
 
-(main.tex [84
+(main.tex [95
 
-]) [85]
+]) [96]
 Overfull \hbox (4.70218pt too wide) in paragraph at lines 12--27
 [] 
  []
 
-) [86] (main.aux)
+) [97] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -1365,19 +1489,19 @@ L3 programming layer <2023-08-29>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 255D61AA12E12D4ECB8A10360399B9F5;17037.
+(rerunfilecheck)             Checksum: D8BE376FAA7BC4C5016903001327EC52;17037.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 42 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 17383 strings out of 410379
- 329702 string characters out of 5788051
+ 17468 strings out of 410379
+ 331453 string characters out of 5788051
  2140432 words of memory out of 5000000
- 38407 multiletter control sequences out of 15000+600000
+ 38481 multiletter control sequences out of 15000+600000
  559598 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,14n,110p,858b,3012s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (86 pages).
+Output written on main.pdf (97 pages).
